@@ -21,6 +21,6 @@ public class QuickSort {
 		
 	}
 	public static void main(String cliArgs[]) {
-		
+		int[] Array= {2,5,4,2,8,7,10,5};
 	}
 }
